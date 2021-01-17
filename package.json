@@ -8,8 +8,6 @@
       "build": "webpack --config ./build/webpack.prod.js"
   },
   "repository": {
-      "type": "git",
-      "url": "git@gitlab.alibaba-inc.com:wb-wzy505878/s_tool.git"
   },
   "devDependencies": {
       "@babel/core": "^7.8.6",
